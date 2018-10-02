@@ -1,0 +1,10 @@
+luigi
+pandas
+tensorflow
+Cython
+contextlib2
+pillow
+lxml
+jupyter
+matplotlib
+pydicom
